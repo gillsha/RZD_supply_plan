@@ -13,10 +13,6 @@ Backend: Python, Flask (REST API)
 
 Frontend: React, JavaScript
 
-BI-визуализация: Power BI, Recharts, YandexLens
-
-Машинное обучение (MVP-план): ARIMA, Prophet, XGBoost, Isolation Forest
-
 ## Функционал
 Централизованная реляционная база данных (исходный план, корректировки, финальный план, логи)
 
